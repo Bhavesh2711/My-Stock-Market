@@ -2,7 +2,7 @@
 
 ## Overview 
 
-MystockMaster, a Laravel-based inventory management system, simplifies the tracking of your inventory, sales, purchases, and more. Offering a user-friendly dashboard, intuitive reports, and an array of features, it becomes your partner in efficient business management and growth.
+MystockMarket, a Laravel-based inventory management system, simplifies the tracking of your inventory, sales, purchases, and more. Offering a user-friendly dashboard, intuitive reports, and an array of features, it becomes your partner in efficient business management and growth.
 
 Features:
 - Dashboard with key insights and metrics
