@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 ## Overview 
 
@@ -73,6 +74,8 @@ Built with Laravel 9, Livewire, AlpineJs, and Tailwind CSS, ensuring a fast and 
 | Sale Create | Customer Create |
 | --- | --- |
 | ![Sale Create](screens/sale-create.png) | ![Customer Create](screens/customer-modal.png) |
+
+
 
 
 
